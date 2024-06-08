@@ -1,1 +1,1 @@
-# Haskell-Individual-Project
+# Random message genreator in haskell
